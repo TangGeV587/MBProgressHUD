@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Z_MBProgressHUD"
-  s.version      = "1.1.1"
+  s.version      = "1.1.3"
   s.summary      = "TGProgressHUD"
   s.description  = <<-DESC
                     学习研究使用
